@@ -81,25 +81,28 @@ Custom question generation modes
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3257294a-53c0-490e-b376-ccbb2512101e" alt="First UI" width="80%" />
+  <img src="images/first_ui.png" alt="First UI" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6ba3a60-926c-47c6-9ddc-622243587e62" alt="Summary" width="80%" />
+  <img src="images/summary.png" alt="Summary" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19b5715b-da3d-4d27-97e2-3cbe9024be5d" alt="Ask Anything" width="80%" />
+  <img src="images/ask_anything.png" alt="Ask Anything" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b66af17f-d3a8-4a53-9ccc-e6ad484afdd5" alt="Generate Question" width="80%" />
+  <img src="images/generate_question.png" alt="Generate Question" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67945485-641e-4b55-b4c8-d105bea32620" alt="Answer Response" width="80%" />
+  <img src="images/answer_response.png" alt="Answer Response" width="80%" />
 </p>
+
 
 
 
