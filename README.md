@@ -1,6 +1,9 @@
 # 📚 docIQ – Smart Research Assistant
-AI-powered, fully local GenAI app that helps you explore, understand, and quiz yourself on research papers or text documents — completely offline, **without any paid API key**.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Offline](https://img.shields.io/badge/Offline-%F0%9F%9A%AB%20No%20API-red)
 
+AI-powered, fully local GenAI app that helps you explore, understand, and quiz yourself on research papers or text documents — completely offline, **without any paid API key**.
 Built with Hugging Face Transformers, Sentence-Transformers, Faiss, and Gradio.
 
 <!-- Optional: Add video demo link or GIF here -->
@@ -76,12 +79,27 @@ Export Q&A or quiz results to PDF
 Highlight answer span in document
 Custom question generation modes
 
-## Screenshots
-<img width="1516" height="482" alt="First UI " src="https://github.com/user-attachments/assets/3257294a-53c0-490e-b376-ccbb2512101e" />
-<img width="1517" height="335" alt="Summary " src="https://github.com/user-attachments/assets/d6ba3a60-926c-47c6-9ddc-622243587e62" />
-<img width="1465" height="408" alt="Ask Anything" src="https://github.com/user-attachments/assets/19b5715b-da3d-4d27-97e2-3cbe9024be5d" />
-<img width="1517" height="476" alt="Generate Question" src="https://github.com/user-attachments/assets/b66af17f-d3a8-4a53-9ccc-e6ad484afdd5" />
-<img width="1571" height="508" alt="Answer Response" src="https://github.com/user-attachments/assets/67945485-641e-4b55-b4c8-d105bea32620" />
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3257294a-53c0-490e-b376-ccbb2512101e" alt="First UI" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6ba3a60-926c-47c6-9ddc-622243587e62" alt="Summary" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19b5715b-da3d-4d27-97e2-3cbe9024be5d" alt="Ask Anything" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b66af17f-d3a8-4a53-9ccc-e6ad484afdd5" alt="Generate Question" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67945485-641e-4b55-b4c8-d105bea32620" alt="Answer Response" width="80%" />
+</p>
 
 
 
