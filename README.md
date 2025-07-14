@@ -105,3 +105,7 @@ Custom question generation modes
   <img src="images/answer_response.png" alt="Answer Response" width="80%" />
 </p>
 
+<p align="center">
+  <img src="images/answer_response.png" alt="Answer Response" width="80%" />
+</p>
+
