@@ -77,13 +77,16 @@ Highlight answer span in document
 Custom question generation modes
 
 ## Screenshots
+<img width="1516" height="482" alt="First UI " src="https://github.com/user-attachments/assets/3257294a-53c0-490e-b376-ccbb2512101e" />
+<img width="1517" height="335" alt="Summary " src="https://github.com/user-attachments/assets/d6ba3a60-926c-47c6-9ddc-622243587e62" />
+<img width="1465" height="408" alt="Ask Anything" src="https://github.com/user-attachments/assets/19b5715b-da3d-4d27-97e2-3cbe9024be5d" />
+<img width="1517" height="476" alt="Generate Question" src="https://github.com/user-attachments/assets/b66af17f-d3a8-4a53-9ccc-e6ad484afdd5" />
+<img width="1571" height="508" alt="Answer Response" src="https://github.com/user-attachments/assets/67945485-641e-4b55-b4c8-d105bea32620" />
 
-<img width="1516" height="482" alt="Screenshot 2025-07-14 093025" src="https://github.com/user-attachments/assets/42268450-5837-45c5-8ac2-84e4ba50f0de" />
-<img width="1556" height="382" alt="image" src="https://github.com/user-attachments/assets/e29bc631-1570-4f00-b71b-8881e8c52e46" />
-<img width="1465" height="409" alt="Screenshot 2025-07-14 095054" src="https://github.com/user-attachments/assets/8c254a37-267e-449d-b014-58f34eb0b7ca" />
-<img width="1518" height="476" alt="Screenshot 2025-07-14 095206" src="https://github.com/user-attachments/assets/841d005e-a4ba-48a7-b876-23740d969c42" />
-<img width="1503" height="441" alt="Screenshot 2025-07-14 095240" src="https://github.com/user-attachments/assets/4e2d889c-0b61-4133-96cc-ee3394f46590" />
-<img width="1571" height="507" alt="image" src="https://github.com/user-attachments/assets/b5212964-0d64-47e7-ae27-92feca3f50df" />
+
+
+
+
 
 
 
