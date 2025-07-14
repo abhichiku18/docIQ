@@ -81,7 +81,9 @@ Custom question generation modes
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
+<p align="center">
+  <img src="images/overview.png" alt="Overview" width="80%" />
+</p>
 
 <p align="center">
   <img src="images/first_ui.png" alt="First UI" width="80%" />
@@ -102,17 +104,4 @@ Custom question generation modes
 <p align="center">
   <img src="images/answer_response.png" alt="Answer Response" width="80%" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
