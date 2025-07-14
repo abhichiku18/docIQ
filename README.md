@@ -48,7 +48,7 @@ smart-research-assistant/
 
 1️⃣ Clone and install:
 ```bash
-git clone https://github.com/abhichiku18/docIQ
+git clone https://github.com/abhichiku18/docIQ.git
 cd docIQ
 pip install -r requirements.txt
 
